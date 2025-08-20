@@ -16,7 +16,7 @@ Approach:
 
 Key Insights:
 - Phones and Chairs emerged as top revenue generators, each exceeding $325K
-- Achieved $286.4K in net profit with an average margin of 28.66%, reflecting strong operational efficiency
+- Achieved $286.4K in net profit with an average margin of $28.66, reflecting strong operational efficiency
 - Q2 inventory levels and delivery times revealed supply chain bottlenecks in high-demand categories like Binders and Paper
 - Customer frequency rate of 13 and average quantity per customer of 47.76 suggest moderate engagement, with room for loyalty program optimization
 - Returned product mapping exposed geographic inefficiencies, especially in Illinois and Indiana
