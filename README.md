@@ -14,7 +14,7 @@ Approach
 
 • Designed a scalable data model initially a star schema, later refined into a snowflake schema using surrogate keys to reduce redundancy
 
-• Evaluated net profit, total revenue, and inventory distribution by category and sub-category
+• Evaluated net profit, total revenue, and inventory distribution by category and sub category
 
 • Built dynamic dashboards covering sales performance, inventory efficiency, and customer behavior
 
@@ -78,4 +78,4 @@ This project exemplifies how end to end analytics powered by Excel Power Query a
 
 • Personalize customer engagement
 
-With predictive insights and interactive dashboards, the business is equipped to scale intelligently and make data-driven decisions with confidence.
+With predictive insights and interactive dashboards, the business is equipped to scale intelligently and make data driven decisions with confidence.
