@@ -1,4 +1,3 @@
-
 Strategic Retail Intelligence: Driving Growth Through Visual Analytics
 
 This project leverages Excel Power Query and Power BI to transform 9,994 retail transactions into actionable insights. Through advanced data modeling, interactive dashboards, and predictive analytics, it empowers stakeholders to optimize profitability, streamline inventory, and enhance customer retention.
